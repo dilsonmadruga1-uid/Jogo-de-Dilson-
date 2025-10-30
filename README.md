@@ -32,3 +32,12 @@
        Lubango
           ↓
         Namibe
+# 1. Clone o repositório
+git clone https://github.com/dilsonmadruga1/Jogo-de-Dilson.git
+cd Jogo-de-Dilson
+
+# 2. Instale o Pygame
+pip install pygame
+
+# 3. Jogue!
+python main.py
