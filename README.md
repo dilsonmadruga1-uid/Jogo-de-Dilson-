@@ -41,3 +41,9 @@ pip install pygame
 
 # 3. Jogue!
 python main.py
+Python 3 + Pygame
+│
+├── Renderização 3D com projeção perspectiva
+├── IA de zumbis (perseguição vetorial)
+├── Mundo aberto 30x30 (escalável)
+└── HUD com pontos e localização
